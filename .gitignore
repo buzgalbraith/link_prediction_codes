@@ -1,0 +1,9 @@
+
+.ipynb_checkpoints
+data
+figs
+kg
+saved_models
+__pycache__
+run.sbatch
+
