@@ -21,7 +21,7 @@ try to fix the graph sage model.
     make sure that there is no issue with the reverse edges and data splitting. 
     try doing the prediction with out reverse edges and see model performance.
     need to have a way to get the edges and reverse edges eliminated for training test and validation data. 
-
+    [ ] add features
 """
 ## arg parse
 
